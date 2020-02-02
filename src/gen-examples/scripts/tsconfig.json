@@ -5,8 +5,7 @@
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
+    "strict": true,
     "noImplicitAny": true
-  },
-  "include": ["src/"],
-  "exclude": ["node_modules"]
+  }
 }
